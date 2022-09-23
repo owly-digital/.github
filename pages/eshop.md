@@ -17,5 +17,5 @@
 
 #### Implementations
 - BC-Break: Using `ShopConfig::$currency` and `ShopConfig::$precision` instead of `ConfigurationModel`
-- New `ProductFilters` Service - Validating query filter parameters, unseting invalid values, handling product filter process
+- New `ProductFilters` Interface - Validating query filter parameters, unseting invalid values, handling product filter process
 - Revised and rewritten `Categories` - Better optimization (1/2 query time)
