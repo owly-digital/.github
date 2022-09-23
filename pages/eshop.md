@@ -19,3 +19,15 @@
 - BC-Break: Using `ShopConfig::$currency` and `ShopConfig::$precision` instead of `ConfigurationModel`
 - New `ProductFilters` Interface - Validating query filter parameters, unseting invalid values, handling product filter process
 - Revised and rewritten `Categories` - Better optimization (1/2 query time)
+
+### 🚩 20.9.2022
+
+#### Zákaznický
+- Nový panel **Statistiky**:
+  - Informace o tržbách, dokočených objednávkách a nových zákaznících
+  - Možnost zvolit období - Den, Týden, Měsíc, Rok (posledních 365 dní) a Aktuální rok (data od začátku roku do aktuálního dne)
+  - Možnost porovnávat data s minulým obdobím (v případě volby **Aktuální rok** poté od začátku minulého roku do aktuálního data minulého roku)
+- Nová možnost označit **Stav objednávky** jako **Konečný stav**
+  - **Konečný stav** objednávky určuje úspěšné dokončení objednávky
+  - Veškeré objednávky v **konečném stavu** se poté započítávají do statistik
+ - Přepracováno grafické rozhraní **Nastavení obchodu**
