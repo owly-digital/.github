@@ -2,6 +2,15 @@
 
 ## Changelog
 
+### 🚩 27.9.2022
+
+#### Zákaznický
+- Možnost nastavovat produktům **jakost**
+- Možnost filtrovat dle **jakosti** produktu (jak v administraci, tak na e-shopu)
+- Přidán nový sloupeček **jakost** do tabulky produktů (skrytý ve výchozím stavu)
+- Seznam povolených jakostí a výchozí jakost je možné nastavit v `Konfigurace -> Obchod`
+- Seznam všech jakostí je možné na žádost upravit pro každý projekt zvlášť
+
 ### 🚩 23.9.2022
 
 #### Zákaznický
