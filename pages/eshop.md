@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### 🚩 12.10.2022
+
+#### Zákaznický
+- Možnost nastavovat **Způsobům dopravy** minimální váhu
+
 ### 🚩 27.9.2022
 
 #### Zákaznický
