@@ -6,6 +6,8 @@
 
 #### Zákaznický
 - Možnost nastavovat **Způsobům dopravy** minimální váhu
+- Možnost nahrávat vlastní obrázky ke **Způsobům dopravy**
+- Možnost nahrávat vlastní obrázky ke **Způsobům platby**
 
 ### 🚩 27.9.2022
 
