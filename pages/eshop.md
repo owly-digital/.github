@@ -8,6 +8,7 @@
 - Možnost nastavovat **Způsobům dopravy** minimální váhu
 - Možnost nahrávat vlastní obrázky ke **Způsobům dopravy**
 - Možnost nahrávat vlastní obrázky ke **Způsobům platby**
+- Možnost povolit **Způsob dopravy** od zadané minimální váhy objednávky *(vhodné např. pro paletovou dopravu)*
 
 ### 🚩 27.9.2022
 
