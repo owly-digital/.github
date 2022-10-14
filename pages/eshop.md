@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 🚩 14.10.2022
+- Možnost povolit **Způsoby dopravy** zvlášť pro každého zákazníka *(podobně jako **Způsoby platby**)*
+- Zákazníci mohou nově zažádat o obnovu hesla 1x za hodinu
+
 ### 🚩 12.10.2022
 
 #### Zákaznický
