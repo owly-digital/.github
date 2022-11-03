@@ -2,7 +2,15 @@
 
 ## Changelog
 
+### 🚩 3.11.2022
+
+#### Zákaznický
+- Možnost nastavit **Maximální počet balíků** pro **Způsob doprav**
+- Možnost zvolit konkrétní **Způsoby dopravy**, které se budou propisovat to feedů *(Google, Facebook)*
+
 ### 🚩 14.10.2022
+
+#### Zákaznický
 - Možnost povolit **Způsoby dopravy** zvlášť pro každého zákazníka *(podobně jako **Způsoby platby**)*
 - Zákazníci mohou nově zažádat o obnovu hesla 1x za hodinu
 
