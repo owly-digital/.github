@@ -1,6 +1,6 @@
-## K2D.CZ
+## owly.digital
 
-We create fast, beautiful and customizable e-commerce and websites tailored in every detail built on top of our **K2D.CMS**.
+We create fast, beautiful and customizable e-commerce and websites tailored in every detail built on top of our **owly.cms**.
 
 Where to go next?
 - [🌐 Website](/pages/website.md)
