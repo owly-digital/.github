@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### 🚩 10.3.2023
+
+#### Zákaznický
+- Rychlejší *(min. 10x)* generování štítků *(Příjem, Expedice, Dopravci)* za využítí vlastního PDF serveru
+
 ### 🚩 3.11.2022
 
 #### Zákaznický
