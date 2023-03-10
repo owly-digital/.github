@@ -6,6 +6,8 @@
 
 #### Zákaznický
 - Rychlejší *(min. 10x)* generování štítků *(Příjem, Expedice, Dopravci)* za využítí vlastního PDF serveru
+- Možnost přiložit ke **Stavu objednávky** přílohy *(např. Obchodní podmínky)*
+- Možnost automatizovaně přikládat faktury z externích účetních systému ke zvoleným **Stavům objednávky**
 
 ### 🚩 3.11.2022
 
