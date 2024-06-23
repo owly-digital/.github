@@ -1,8 +1,3 @@
 ## owly.digital
 
-We create fast, beautiful and customizable e-commerce and websites tailored in every detail built on top of our **owly.cms**.
-
-Where to go next?
-- [🌐 Website](/pages/website.md)
-- [🛒 E-shop](/pages/eshop.md)
-
+We specialize in crafting cutting-edge, lightning-fast cloud web applications and bespoke e-commerce solutions. Our scalable and extensible platforms leverage the latest technologies, ensuring your business stays ahead of the curve. Experience unparalleled performance and innovation with our custom-tailored services, designed to elevate your digital presence.
